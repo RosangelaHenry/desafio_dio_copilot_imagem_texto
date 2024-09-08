@@ -28,18 +28,18 @@ O Copilot provavelmente não realizou essa ação devido a uma limitação em su
 Apesar dessa limitação, o Copilot continua sendo uma ferramenta extraordinária e representa um avanço significativo para a nossa geração. Sua capacidade de auxiliar em tarefas complexas, gerar texto e código de maneira eficiente, e integrar-se perfeitamente a várias plataformas o torna uma solução revolucionária. Mesmo com algumas restrições, o impacto positivo que ele traz para produtividade e criatividade é imenso, facilitando o trabalho de desenvolvedores e profissionais em diversas áreas. O Copilot é, sem dúvida, um grande marco no desenvolvimento de inteligências artificiais aplicadas. Por Rosangela Henry - 2024
 
 ## Legenda e Créditos de Imagens:
-1-[Mulheres fazendo compras](https://br.freepik.com/fotos-gratis/meninas-bonitas-que-mostram-sacolas-de-compras_1367832.htm#from_view=detail_alsolike) - por Freepik
+1- [Mulheres fazendo compras](https://br.freepik.com/fotos-gratis/meninas-bonitas-que-mostram-sacolas-de-compras_1367832.htm#from_view=detail_alsolike) - por Freepik
 
-2-[Containers no Porto](https://www.logweb.com.br/wp-content/uploads/2023/02/conteineres.jpg) - por Logweb
+2- [Containers no Porto](https://www.logweb.com.br/wp-content/uploads/2023/02/conteineres.jpg) - por Logweb
 
-3-[Crianças andando de Bicicleta](https://depositphotos.com/br/photos/crian%C3%A7as-bicicleta.html?admitad_uid=e6bf712dba86b8229c8f53a216cbcd5b&utm_source=admitad&utm_medium=cpa&utm_campaign=2075099&tagtag_uid=e6bf712dba86b8229c8f53a216cbcd5b&qview=11633333) - por Depositphotos 
+3- [Crianças andando de Bicicleta](https://depositphotos.com/br/photos/crian%C3%A7as-bicicleta.html?admitad_uid=e6bf712dba86b8229c8f53a216cbcd5b&utm_source=admitad&utm_medium=cpa&utm_campaign=2075099&tagtag_uid=e6bf712dba86b8229c8f53a216cbcd5b&qview=11633333) - por Depositphotos 
+ 
+4- [Igreja de Mombaça CE](https://www.flickr.com/photos/consuelolima/39872951304) - por Flickr
 
-4-[Igreja de Mombaça CE](https://www.flickr.com/photos/consuelolima/39872951304) - por Flickr
+5- [Cachoeira](https://pt.pngtree.com/freebackground/local-real-photography-of-waterfall-river-lake-and-sea_1689730.html) - por Pngtree
 
-5-[Cachoeira](https://pt.pngtree.com/freebackground/local-real-photography-of-waterfall-river-lake-and-sea_1689730.html) - por Pngtree
+6- [Cirurgia Médica](https://depositphotos.com/br/photos/medicos-operando.html?qview=2713835) - por Depositphotos
 
-2-[Cirurgia Médica](https://depositphotos.com/br/photos/medicos-operando.html?qview=2713835) - por Depositphotos
-
-2-[Feijoada Brasileira](https://pixabay.com/pt/illustrations/feijoada-brasileira-brasil-comida-8763933/) - por Pixabay
+7- [Feijoada Brasileira](https://pixabay.com/pt/illustrations/feijoada-brasileira-brasil-comida-8763933/) - por Pixabay
 
 
